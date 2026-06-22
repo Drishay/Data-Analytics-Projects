@@ -1,5 +1,4 @@
-````markdown
-<h1 align="center">📊 Data Analytics Portfolio</h1>
+# 📊 Data Analytics Projects
 
 <p align="center">
 Building data-driven solutions through analytics, visualization, and business insights.
@@ -11,78 +10,74 @@ This repository showcases my journey in Data Analytics through real-world projec
 
 ---
 
-# 👋 Welcome
+## 👋 Welcome
 
-Welcome to my Data Analytics Portfolio.
+Welcome to my **Data Analytics Projects** repository.
 
-This repository documents my learning and projects across multiple analytics tools while focusing on solving real business problems with data.
+Here, I document my learning and projects across multiple analytics tools while focusing on solving real business problems using data.
 
 Every project follows a structured workflow:
 
-> Business Problem → Data Cleaning → Analysis → Visualization → Insights → Business Recommendations
+> **Business Problem → Data Cleaning → Analysis → Visualization → Insights → Business Recommendations**
 
 ---
 
-# 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
-## Programming
+### Programming
 
-- SQL
-- Python
+* SQL
+* Python
 
-## Data Visualization
+### Data Visualization
 
-- Tableau
-- Power BI
-- Microsoft Excel
+* Tableau
+* Power BI
+* Microsoft Excel
 
-## Core Skills
+### Core Skills
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Dashboard Design
-- Data Visualization
-- Business Analysis
-- Storytelling with Data
-- Insight Generation
-
----
-
-# 📂 Portfolio Projects
-
-| Project | Domain | Tools | Status |
-|---------|--------|-------|--------|
-| Sales Performance Analysis | Retail | Excel, Tableau | 🚧 |
-| HR Analytics Dashboard | HR | Power BI | 🚧 |
-| Customer Segmentation | Marketing | SQL, Python | 🚧 |
-| Financial Dashboard | Finance | Excel, Power BI | 🚧 |
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Dashboard Design
+* Data Visualization
+* Business Analysis
+* Storytelling with Data
+* Insight Generation
 
 ---
 
-# 📁 Repository Structure
+## 📂 Projects
+
+| Project                    | Domain    | Tools           | Status         |
+| -------------------------- | --------- | --------------- | -------------- |
+| Sales Performance Analysis | Retail    | Excel, Tableau  | 🚧 Coming Soon |
+| HR Analytics Dashboard     | HR        | Power BI        | 🚧 Coming Soon |
+| Customer Segmentation      | Marketing | SQL, Python     | 🚧 Coming Soon |
+| Financial Dashboard        | Finance   | Excel, Power BI | 🚧 Coming Soon |
+
+---
+
+## 📁 Repository Structure
 
 ```
-📦 Data-Analytics-Portfolio
-│
-├── Excel
-├── SQL
-├── Tableau
-├── PowerBI
-├── Datasets
-├── Images
+Data-Analytics-Projects
+├── Excel/
+├── Tableau/
+├── PowerBI/
 └── README.md
 ```
 
 ---
 
-# 📈 Analytics Workflow
+## 📈 Analytics Workflow
 
 Every project follows this framework:
 
 1. Business Understanding
 2. Data Collection
 3. Data Cleaning
-4. Exploratory Data Analysis
+4. Exploratory Data Analysis (EDA)
 5. Dashboard / Visualization
 6. Key Insights
 7. Business Recommendations
@@ -90,25 +85,24 @@ Every project follows this framework:
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-I'm currently strengthening my skills in:
+Currently strengthening my skills in:
 
-- SQL
-- Excel
-- Tableau
-- Power BI
-- Statistics
-- Business Analytics
-- Data Storytelling
+* SQL
+* Excel
+* Tableau
+* Power BI
+* Statistics
+* Business Analytics
+* Data Storytelling
 
 ---
 
-# 📌 Objective
+## 📌 Objective
 
-My goal is to become a data professional who doesn't just create dashboards but helps organizations make better decisions through data.
+My goal is to become a data professional who not only builds dashboards but also helps organizations make better decisions through data-driven insights.
 
 ---
 
 > **Build. Observe. Improve.**
-````
