@@ -1,4 +1,6 @@
-# 📊 Data Analytics Projects
+<p align="center">
+📊 Data Analytics Projects
+</p>
 
 <p align="center">
 Building data-driven solutions through analytics, visualization, and business insights.
