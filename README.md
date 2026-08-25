@@ -1,12 +1,12 @@
-# 📊 Data Analytics Projects
+<div align="center">
 
-<p align="center">
-Building data-driven solutions through analytics, visualization, and business insights.
-</p>
+<h1>📊 Data Analytics Projects</h1>
 
-<p align="center">
-This repository showcases my journey in Data Analytics through real-world projects, dashboards, SQL analysis, and business case studies.
-</p>
+<p>Building data-driven solutions through analytics, visualization, and business insights.</p>
+
+<p>This repository showcases my journey in Data Analytics through real-world projects, dashboards, SQL analysis, and business case studies.</p>
+
+</div>
 
 ---
 
