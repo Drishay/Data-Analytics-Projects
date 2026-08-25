@@ -47,17 +47,6 @@ Every project follows a structured workflow:
 
 ---
 
-## 📂 Projects
-
-| Project                    | Domain    | Tools           | Status         |
-| -------------------------- | --------- | --------------- | -------------- |
-| Sales Performance Analysis | Retail    | Excel, Tableau  | 🚧 Coming Soon |
-| HR Analytics Dashboard     | HR        | Power BI        | 🚧 Coming Soon |
-| Customer Segmentation      | Marketing | SQL, Python     | 🚧 Coming Soon |
-| Financial Dashboard        | Finance   | Excel, Power BI | 🚧 Coming Soon |
-
----
-
 ## 📁 Repository Structure
 
 ```
